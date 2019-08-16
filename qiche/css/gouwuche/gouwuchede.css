@@ -1,0 +1,172 @@
+@media screen and (min-width:360px) and (max-width:960px){
+	html {
+	font:normal 12px 'Microsoft YaHei',serif;
+	width: 100%;
+	height: 100%;
+}
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+
+        .body{
+        	overflow-x: hidden;
+        	position: relative;
+        }
+/*上面*/
+		.title{
+			width: 360px;
+			height: 70px;
+			}
+		.rq{
+			width: 220px;
+			height: 54px;
+			margin-right: 70px;
+			margin-left: 70px;
+         	
+		}
+		.rq>div{
+			width: 60px;
+			height: 30px;
+			float: left;
+			margin-top: 24px;
+			text-align: center;
+			font-size: 16px;
+			color:#999999;
+			}
+			.title>.rq>.gwc{
+			width: 100px;
+				}
+			
+			/*中间*/
+.lijidenglu{
+	width: 360px;
+	height: 80px;
+	background-color: #f6f6f6;
+	position: relative;
+	
+}
+.juzi{
+	position: absolute;
+	width:200px;
+	height:20px;
+	color: orange;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-size: 13px;
+
+}
+
+input{
+	background-color: #ff6600;
+	color: white;
+	width: 80px;
+	height: 30px;
+	margin-left: 260px;
+	margin-right: 0px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 10px;    
+	border-top-right-radius: 10px;
+	border-style: none;
+}
+/*底部*/
+.gwcnr{
+width: 360px;
+height: 500px;
+background-color: #f9f9f9;
+position: relative;
+}
+.gwcnrbg{
+	position: absolute;
+	margin-left: 90px;
+	margin-right: 90px;
+	margin-top: 150px;
+	width: 180px;
+	height: 120px;
+	}
+.gwcnr>.gwcnrbg>img{
+	width: 180px;
+	height: 120px;
+}
+<<<<<<< .mine
+.gwcnr>.gwcnrbg>.juzit{
+	width: 240px;
+	height: 35px;
+	font-size: 18px;
+	}
+	.gwcnr>.gwcnrbg>.juzif{
+	width: 200px;
+	height: 25px;
+	font-size: 14px;
+	color: #999999;
+	}
+    .anniut{
+    width: 190px;
+	height: 35px;
+	float: left;
+	margin-top: 350px;
+	margin-right: 85px;
+	margin-left: 85px;
+}
+.anniut>input{
+	width: 190px;
+	height: 35px;
+	margin:0 auto;
+}
+
+		/*最底菜单栏*/
+
+		.bottom {
+
+			/*flex: 0 0 50px;*/
+
+			position: fixed;
+			height: 100px;
+			background-color: #fff;
+			bottom: 0;
+			width: 100%;
+			text-align: center;
+			line-height: 40px;
+			font-size: 18px;
+			color: #333 !important;
+			font-weight: bold;
+		}
+		.bottom a {
+			display: inline-block;
+			width: 100%;
+			height: 100%;
+			background-color: #fff;
+
+		}
+		.bottom>ul>li {
+			float: left;
+			width: 20%;
+		}
+		.bottom>ul::after {
+			clear: both;
+			display: block;
+			content: "";
+		}
+		.last_car {
+			margin-bottom: 100px;
+		}
+		.icon-fangzi1,
+		.icon-che,
+		.icon-qian,
+		.icon-gouwuche,
+		.icon-yonghu {
+			font-size: 32px !important;
+		}
+		.icon-gouwuche {
+			color: #ec6f2d;
+}
+}
+
+	
+
+		

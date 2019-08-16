@@ -1,0 +1,318 @@
+ul{
+	list-style: none;
+}
+html,body{
+	height: 100%;
+	margin: 0;
+	/*width: 100%;*/
+	display: flex;
+	background-color: pink;
+	flex-direction: column;
+}
+html {
+	color: #333;
+	font:normal 12px '微软雅黑','Microsoft YaHei';
+}
+body,ul,ol,p,h1,h2,h3 {
+	margin: 0;
+	padding: 0;
+}
+ul,ol {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+	color: #333;
+}
+/*点击登录开始*/
+.djdlk{
+	/*display: flex;*/
+	
+	flex: 0 0 35%;
+	background-color: red;
+	display: flex;
+	flex-direction: column;
+}
+.djdlk>.kong{
+	flex: 0 0 20%;
+}
+.djdlk>.djdltb{
+	flex: 0 0 40%;
+	/*background-color: teal;*/
+	display: flex;
+	flex-direction: row;
+}
+.djdlk>.djdltb>.zuo{
+	flex: 0 0 25%;
+	/*background: #a5c2a2;*/
+	display: flex;
+	color: #ededed;
+}
+.djdlk>.djdltb>.zuo>a{
+	align-items: center;
+	margin: auto;
+	font-size: 3em;
+	color: #ededed;
+}
+.djdlk>.djdltb>.you{
+	flex: 0 0 75%;
+	display: flex;
+	flex-direction: column;
+}
+.djdlk>.djdltb>.you>li:nth-child(1)>a{
+	font-size: 14px;
+	color: white;
+	line-height:3em; 
+}
+.djdlk>.djdltb>.you>li:nth-child(2)>a{
+	color: white;
+	font-size: 6px;
+}
+.djdlk>.djdltb>.you>li{
+	flex:0 0 50%;
+	display: flex;
+
+	flex-direction: column;
+}
+/*.djdlk>.djdltb>.you>li::nth-child(2){
+	flex:0 0 40%;
+}*/
+.djdlk>.sl{
+	flex: 0 0 30%;
+	display: flex;
+	flex-direction: row;
+	/*color: white;*/
+}
+.djdlk>.sl>li{
+	/*float: left;*/
+	flex: 0 0 33%;
+	font-size: 1em;
+}
+.djdlk>.sl>li{
+
+	/*position: absolute;*/
+	text-align: center;
+}
+.djdlk>.sl>li>div{
+	margin:0 auto; 
+	font-size: 0.5em;
+	margin-top: 
+}
+.djdlk>.sl a{
+	color: white;
+}
+
+/*点击登录结束*/
+/*四栏开始*/
+div.silan{
+	flex: 0 0 10%;
+	width: 90%;
+	background-color: #fff;
+	display: flex;
+	flex-direction: row;
+	position: relative;
+	top: -2%;
+	left: 5%;
+	right: 5%;
+	border-radius:5px;
+}
+div.silan>ul{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+
+}
+div.silan>ul>li{
+	flex:0 0 22.5%;
+	font-size: 7px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+div.silan>ul>li>div{
+	/*color: red;*/
+	flex: 0 0 60%;
+	display: flex;
+
+}
+div.silan>ul>li>div>a{
+	align-items: center;
+	margin: auto;
+}
+/*四栏结束*/
+
+/*预约养车栏开始*/
+div.yyyc{
+	flex: 0 0 12%;
+	width: 90%;
+	background-color: #fff;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	left: 5%;
+	right: 5%;
+	border-radius:5px;
+	margin-top: 3%;
+}
+div.yyyc>ul{
+	flex-direction: column;
+	display:flex;
+	padding:3%;
+
+}
+div.yyyc>ul>li{
+	flex:0 0 50%;
+	
+	/*height: 50%;*/
+	width: 100%;
+	flex-direction: column;
+	display:flex;
+}
+div.yyyc>ul>li.yy{
+	/*background-color: red;*/
+	border-bottom: 1px solid #ccc;
+	flex-direction: row;
+	display:flex;
+}
+
+div.yyyc>ul>li a{
+	font-size: 70%;
+	line-height: 2em;
+}
+
+
+
+/*预约养车栏结束*/
+/*工具活动开始*/
+div.gjhd{
+	flex: 0 0 12%;
+	width: 90%;
+	background-color: #fff;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	left: 5%;
+	right: 5%;
+	border-radius:5px;
+	margin-top: 5%;
+}
+div.gjhd>ul{
+	flex-direction: column;
+	display:flex;
+	padding:3%;
+
+}
+div.gjhd>ul>li{
+	flex:0 0 50%;
+	
+	/*height: 50%;*/
+	width: 100%;
+	flex-direction: column;
+	display:flex;
+}
+div.gjhd>ul>li.yy{
+	/*background-color: red;*/
+	border-bottom: 1px solid #ccc;
+	flex-direction: row;
+	display:flex;
+}
+
+div.gjhd>ul>li a{
+	font-size: 70%;
+	line-height: 2em;
+}
+
+
+/*工具活动结束*/
+
+/*问答设置开始*/
+div.wdsz{
+	flex: 0 0 24%;
+	width: 90%;
+	background-color: #fff;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	left: 5%;
+	right: 5%;
+	border-radius:5px;
+	margin-top: 5%;
+}
+div.wdsz>ul{
+	flex-direction: column;
+	display:flex;
+	padding:3%;
+
+}
+div.wdsz>ul>li{
+	flex:0 0 25%;
+	
+	/*height: 50%;*/
+	width: 100%;
+	flex-direction: column;
+	display:flex;
+}
+div.wdsz>ul>li.yy{
+	/*background-color: red;*/
+	border-bottom: 1px solid #ccc;
+	flex-direction: row;
+	display:flex;
+}
+
+div.wdsz>ul>li a{
+	font-size: 70%;
+	line-height: 2em;
+}
+
+/*问答设置结束*/
+
+div.wk{
+	flex: 0 0 15%;
+}
+
+/*最后一部分 底端nav*/
+		.bottom {
+
+			/*flex: 0 0 50px;*/
+
+			position: fixed;
+			height: 100px;
+			background-color: #fff;
+			bottom: 0;
+			width: 100%;
+			text-align: center;
+			line-height: 40px;
+			font-size: 18px;
+			color: #fff;
+			font-weight: bold;
+		}
+		.bottom a {
+			display: inline-block;
+			width: 100%;
+			height: 100%;
+			background-color: #fff;
+			
+		}
+		.bottom>ul>li {
+			float: left;
+			width: 20%;
+		}
+		.bottom>ul::after {
+			clear: both;
+			display: block;
+			content: "";
+		}
+		.last_car {
+			margin-bottom: 100px;
+		}
+		.icon-fangzi1,
+		.icon-che,
+		.icon-qian,
+		.icon-gouwuche,
+		.icon-yonghu {
+			font-size: 32px !important;
+		}
+		.icon-yonghu {
+			color: #ec6f2d;
+		}

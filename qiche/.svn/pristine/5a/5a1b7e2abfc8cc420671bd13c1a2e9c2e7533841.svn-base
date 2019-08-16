@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="./wode.css">
+	<link rel="stylesheet" type="text/css" href="http://at.alicdn.com/t/font_1343942_qnt0ojsdon.css">
+
+	<link rel="stylesheet" href="http://at.alicdn.com/t/font_1343409_eq3c2c15zwa.css">    <!-- 二手车买车图标-->
+	
+	<title>我的</title>
+</head>
+<body>
+	<div class="djdlk">
+	<!-- 背景 -->
+		<div class="kong"></div>
+		<div class="djdltb">
+		<!-- 点击登录图标 -->
+
+			<div class="zuo">
+				<a href="./denglu.html" class="iconfont icon-ren"></a>
+			</div>
+			<ul class="you">
+				<li><a href="./denglu.html">点击登录</a></li>
+				<li><a href="./denglu.html">车源推荐更精准</a></li>
+			</ul>
+		</div>
+		<ul class="sl">
+			<li>
+				<a href="./denglu.html">0</a>
+				<div><a href="./denglu.html">购物车</a></div>
+			</li>
+			<li>
+				<a href="./denglu.html">0</a>
+				<div><a href="./denglu.html">我的咨询</a></div>
+			</li>
+			<li>
+				<a href="./denglu.html">1</a>
+				<div><a href="./denglu.html">浏览历史</a></div>
+			</li>
+		</ul>
+	</div>
+	<div class="silan">
+		<ul>
+			<li class="li1">
+				<div>
+					<a href="./denglu.html" class="icon-font icon-tubiaozhizuo-"></a>
+				</div>
+				<a href="./denglu.html">我卖的车</a>
+			</li>
+			<li class="li2">
+				<div>
+					<a href="./denglu.html" class="icon-font icon-fenqiquanbuhuanqing"></a>
+				</div>
+				<a href="./denglu.html">我的分期</a>
+			</li>
+			<li class="li3">
+				<div>
+					<a href="./denglu.html" class="icon-font icon-hetong"></a>
+				</div>
+				<a href="./denglu.html">我的合同</a>
+			</li>
+			<li class="li4">
+				<div>
+					<a href="./denglu.html" class="icon-font icon-youhuiquan"></a>
+				</div>
+				<a href="./denglu.html">优惠券</a>
+			</li>
+		</ul>
+	</div>
+
+	<!-- 预约用车开始 -->
+	<div class="yyyc">
+		<ul>
+			<li class="yy">
+				<div>
+					<a href="./denglu.html">
+					<span>我要预约</span>
+					</a>
+				</div>
+			</li>
+
+			<li class="yc">
+				<a href="./denglu.html">优信养车</a>
+			</li>
+		</ul>
+	</div>
+	<!-- 预约用车结束 -->
+	<!-- 工具活动开始 -->
+	<div class="gjhd">
+		<ul>
+			<li class="yy">
+				<div>
+					<a href="./denglu.html">
+					<span>常用工具</span>
+					</a>
+				</div>
+			</li>
+
+			<li class="yc">
+				<a href="./denglu.html">我的活动</a>
+			</li>
+		</ul>
+	</div>
+	<!-- 工具活动结束 -->
+	<!-- 问答设置开始 -->
+	<div class="wdsz">
+		<ul>
+			<li class="yy">
+				<div>
+					<a href="./denglu.html">
+					<span>我的问答</span>
+					</a>
+				</div>
+			</li>
+
+			<li class="yc">
+				<a href="./denglu.html">意见反馈</a>
+			</li>
+			<li class="yy">
+				<div>
+					<a href="./denglu.html">
+					<span>帮助中心</span>
+					</a>
+				</div>
+			</li>
+
+			<li class="yc">
+				<a href="./denglu.html">设置</a>
+			</li>
+		</ul>
+		
+	</div>
+	
+	<div class="bottom">
+		<ul>
+			<li><a href=".././shouye.html"><i class="iconfont icon-fangzi1"></i><br>首页</a></li>
+			<li><a href=".././ershouche.html"><i class="iconfont icon-che"></i><br>买车</a></li>
+			<li><a href=".././woyaomaiche.html"><i class="iconfont icon-qian"></i><br>卖车</a></li>
+			<li><a href=".././gouwuche.html"><i class="iconfont icon-gouwuche"></i><br>购物车</a></li>
+			<li><a href="./wode.html"><i class="iconfont icon-yonghu"></i><br>我的</a></li>
+		</ul>
+	</div>
+	<!-- 问答设置结束 -->
+	<div class="wk"></div>
+</body>
+</html>

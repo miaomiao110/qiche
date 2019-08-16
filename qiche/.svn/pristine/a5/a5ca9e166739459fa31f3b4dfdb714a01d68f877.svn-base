@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>我要卖车</title>
+	<link rel="stylesheet" type="text/css" media="screen and (min-width:960px) and (max-width:1600px)" href="./css/woyaomaiche/woyaomaichede.css">
+
+	<link rel="stylesheet" href="http://at.alicdn.com/t/font_1343409_eq3c2c15zwa.css"><!--最底菜单栏的图标-->
+
+	
+	<style>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		/*<!--[if lt IE 9]>*/
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js">
+  </script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js">
+  </script>
+/*<![endif]-->*/
+
+
+	</style>
+</head>
+<body>
+<!-- 顶部 -->
+<div class="title">
+<div class="one">苏州</div>
+<div class="two">我要卖车</div>
+<div class="three">卖车记录</div>
+</div>
+<!-- 中部 -->
+<!-- 图片 -->
+<div class="photoone">
+	<div>
+		<img src="./images/woyaomaiche/2.png" alt="">
+	</div>
+</div>
+<!-- 中部图片下面 -->
+
+		<div class="titleline">
+		<div class="chenumber">
+			<h1>2551505</h1>
+			<div class="font">
+				辆车成功在优信上售出
+			</div>
+			</div>
+			</div>
+
+			<div class="ksyy">
+				<input type="button" value="预约卖车" >
+			</div>
+
+			<div class="rqone">
+				<div class="mfzx">
+				<div class="juzitwo">免费咨询</div>
+				</div>
+
+				<div class="xggj">
+				<div class="juzithree">先估个价</div>
+				</div>
+				</div>
+		    <!-- 分界线 -->
+           <div class="fjx"></div>
+           <!-- 底部 -->
+           <div class="zmlc">
+           <div class="zmlcrq">直卖流程</div>
+           	</div>
+           	<div class="lc">
+           		<img src="./images/woyaomaiche/3.png" alt="">
+           	</div>
+           	<div class="tishi">
+           		<img src="./images/woyaomaiche/4.png" alt="">
+           	</div>
+
+           	<!-- 最底菜单栏 -->
+           	<div class="bottom">
+			<ul>
+				<li><a href="./shouye.html"><i class="iconfont icon-fangzi1"></i><br>首页</a></li>
+				<li><a href="./ershouche.html"><i class="iconfont icon-che"></i><br>买车</a></li>
+				<li><a href="./woyaomaiche.html"><i class="iconfont icon-qian"></i><br>卖车</a></li>
+				<li><a href="./gouwuche.html"><i class="iconfont icon-gouwuche"></i><br>购物车</a></li>
+				<li><a href="./我的/wode.html"><i class="iconfont icon-yonghu"></i><br>我的</a></li>
+			</ul>
+		</div>
+		    </body>
+</html>

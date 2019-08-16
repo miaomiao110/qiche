@@ -1,0 +1,92 @@
+html,body{
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+body,ul,ol,p,h1,h2,h3 {
+	margin: 0;
+	padding: 0;
+}
+ul,ol {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+	color: #333;
+}
+html{
+	font: normal 12px '微软雅黑','Microsoft YaHei';
+}
+div.fanhui{
+	/*flex:0 0 10%;*/
+	/*background-color: red;*/
+	display: flex;
+	flex-direction: row;
+	/*position: relative;*/
+}
+div.fanhui>div{
+	flex:0 0 15%;
+	height: 100%;
+	transform: rotate(180deg);
+	/*background-color: pink;*/
+	/* align-items:center; */
+	text-align: center;
+}
+div.fanhui>div>a{
+	font-size: 36px;
+	line-height: 2em;
+	/*transform: scale(2);*/
+}
+div.qgg{
+	padding: 5%;
+	padding-bottom: 0;
+	font-size: 40px;
+	line-height: 2em;
+}
+div.ydg{
+	padding: 5%;
+	padding-top: 0;
+	font-size: 10px;
+	line-height: 2em;
+}
+
+
+div.shuru{
+	padding: 5%;
+	display: flex;
+	flex-direction:column;
+}
+div.shuru>div{
+	border-bottom: 1px solid #ededed;
+	display: flex;
+	padding: 2%;
+	flex-direction: row;
+
+}
+input{
+	border:0; 
+	font-size: 16px;
+}
+div.shuru>div.sjh>span{
+	padding-left: 30%;
+}
+div.dl{
+	padding: 3%;
+	margin: 3%; 
+	background-color: #eeb867;
+	text-align: center;
+}
+div.dl>a{
+	font-size: 16px;
+}
+div.mmdl{
+	margin: 3%;
+}
+div.xy{
+	/*background-color: pink;*/
+	margin: 30%;
+	text-align: center;
+}
+div.xy>span{
+	color: #ae823f;
+}

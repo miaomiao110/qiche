@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>车</title>
+	<link rel="stylesheet" href="http://at.alicdn.com/t/font_1337210_97x5ix7mzkm.css">
+	<link rel="stylesheet" href="./css/chedeneirong/ersc.css">
+</head>
+<body>
+<div class="body">
+	<div class="top">
+		<div>
+			<img src="./images/chedeneirong/1.jpg" alt="">
+		</div>
+		<div>
+			<div>38.8w</div>
+			<div><a href="">抢</a></div>
+		</div>
+		<div>
+			<ul>
+				<li>华北到苏州</li>
+				<li>捷豹 F-TYDE</li>
+			</ul>
+		</div>
+		<div><a href="">一层首付3.83万 月付9815元</a></div>
+	</div>
+	<div class="car">
+		<div>
+			<ul>
+				<li>车辆到案</li>
+				<li>编号：101010</li>
+			</ul>
+		</div>
+		<div>
+			<div>
+				<ul>
+						<li>表显里程</li>
+						<li>5.2万公里</li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+						<li>2014.04</li>
+						<li>5.3</li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+						<li>可异地上牌</li>
+						<li>国4</li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+						<li>颜色</li>
+						<li>白色</li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+						<li>机械增压</li>
+						<li>3.0L</li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+						<li>提车时间</li>
+						<li>5-7天</li>
+				</ul>
+			</div>
+		</div>
+		<div>
+			<div>
+				<ul>
+					<li>
+						<i class="iconfont icon-fangxiangpan1"></i>
+					</li>
+					<li>电动方向盘</li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+					<li>
+						<i class="iconfont icon-fangxiangpan1"></i>
+					</li>
+					<li>电动方向盘</li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+					<li>
+						<i class="iconfont icon-fangxiangpan1"></i>
+					</li>
+					<li>电动方向盘</li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+					<li>
+						<i class="iconfont icon-fangxiangpan1"></i>
+					</li>
+					<li>电动方向盘</li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+					<li>
+						<i class="iconfont icon-fangxiangpan1"></i>
+					</li>
+					<li>电动方向盘</li>
+				</ul>
+			</div>
+		</div>
+		<div>
+			<a href="">查看详细参数配置</a>
+		</div>
+	</div>
+	<div class="content">
+		<div>购车服务</div>
+		<div>
+			<ul>
+				<li>
+				    <a href="">认证服务</a>
+				    <ul>
+				    	<li>认证服务</li>
+				    	<li>经检测，该车非火烧车；转向柱浮锈；非调表车；发动机机舱内部机械部件无明显渗漏拆卸痕迹。车辆有改装，详细结果请查看检测报告。</li>
+				    </ul>
+				</li>
+				<li>
+					<a href="">交易服务</a>
+					<ul>
+				    	<li>交易服务</li>
+				    	<li>经检测，该车非火烧车；转向柱浮锈；非调表车；发动机机舱内部机械部件无明显渗漏拆卸痕迹。车辆有改装，详细结果请查看检测报告。</li>
+				    </ul>
+				</li>
+				<li>
+					<a href="">异地上牌</a>
+					<ul>
+				    	<li>异地上牌</li>
+				    	<li>经检测，该车非火烧车；转向柱浮锈；非调表车；发动机机舱内部机械部件无明显渗漏拆卸痕迹。车辆有改装，详细结果请查看检测报告。</li>
+				    </ul>
+				</li>
+				<li>
+					<a href="">售后服务</a>
+					<ul>
+				    	<li>售后服务</li>
+				    	<li>经检测，该车非火烧车；转向柱浮锈；非调表车；发动机机舱内部机械部件无明显渗漏拆卸痕迹。车辆有改装，详细结果请查看检测报告。</li>
+				    </ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="first">
+		<ul>
+			<li>车辆检测</li>
+			<li>经检测，该车非火烧车；转向柱浮锈；非调表车；发动机机舱内部机械部件无明显渗漏拆卸痕迹。车辆有改装，详细结果请查看检测报告</li>
+			<li>
+				<img src="./images/chedeneirong/1.jpg" alt="">
+			</li>
+			<li>
+				<a href="">事故排查</a>
+				<ul>
+					<li>事故排查</li>
+					<li>事故排查</li>
+				</ul>
+			</li>
+			<li>
+			    <a href="">轻微</a>
+			    <ul>
+					<li>事故排查</li>
+					<li>事故排查</li>
+				</ul>
+			</li>
+			<li>
+			    <a href="">采用功能</a>
+			    <ul>
+					<li>事故排查</li>
+					<li>事故排查</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+    <div class="second">
+    	<ul>
+    		<li>车辆实拍</li>
+    		<li>
+    			<ul>
+    				<li><img src="./images/chedeneirong/1.jpg" alt=""></li>
+    				<li>车前</li>
+    			</ul>
+    		</li>
+    		<li>
+    			<ul>
+    				<li><img src="./images/chedeneirong/2.jpg" alt=""></li>
+    				<li>前排</li>
+    			</ul>
+    		</li>
+    		<li>
+    			<ul>
+    				<li><img src="./images/chedeneirong/3.jpg" alt=""></li>
+    				<li>中控台</li>
+    			</ul>
+    		</li>
+    		<li>
+    			<ul>
+    				<li><img src="./images/chedeneirong/4.jpg" alt=""></li>
+    				<li>后排</li>
+    			</ul>
+    		</li>
+    		<li>
+    			<ul>
+    				<li><img src="./images/chedeneirong/5.jpg" alt=""></li>
+    				<li>发动机舱</li>
+    			</ul>
+    		</li>
+    	</ul>
+    </div>
+    <div class="bottom">
+    	<ul>
+    		<li>
+    			<ul>
+    				<li><i class="iconfont icon-xiazai3"></i></li>
+    				<li>加入购物车</li>
+    			</ul>
+    		</li>
+    		<li>
+    			<ul>
+    				<li><i class="iconfont icon-xiazai3"></i></li>
+    				<li>我要优惠</li>
+    			</ul>
+    		</li>
+    		<li>电话客服</li>
+    		<li>在线咨询</li>
+    	</ul>
+    </div>
+    </div>
+</body>
+</html>

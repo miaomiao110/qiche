@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>购物车</title>
+	<link rel="stylesheet" href="./css/gouwuche/gouwuchede.css">
+
+	<link rel="stylesheet" href="http://at.alicdn.com/t/font_1343409_eq3c2c15zwa.css"> <!--最底菜单栏的 图标-->
+</head>
+<body>
+<!-- 上面 -->
+<div class="title">
+<div class="rq">
+<div class="qb">全部</div>
+<div class="gwc">购物车</div>
+<div class="zx">咨询</div>
+</div>
+<!-- 中间 -->
+<div class="lijidenglu">
+<div class="juzi" text-align: center;>登录后可云端同步数据，永久保存</div>
+<input type="button" value="立即登陆" class="ljdl">
+</div>
+<!-- 底部 -->
+<div class="gwcnr">
+<div class="gwcnrbg">
+<img src="./images/gouwuche/1.png" alt="">
+	</div>
+</div>
+<!-- 最低菜单栏 -->
+		<div class="bottom">
+			<ul>
+				<li><a href="./shouye.html"><i class="iconfont icon-fangzi1"></i><br>首页</a></li>
+				<li><a href="./ershouche.html"><i class="iconfont icon-che"></i><br>买车</a></li>
+				<li><a href="./woyaomaiche.html"><i class="iconfont icon-qian"></i><br>卖车</a></li>
+				<li><a href="./gouwuche.html"><i class="iconfont icon-gouwuche"></i><br>购物车</a></li>
+				<li><a href="./我的/wode.html"><i class="iconfont icon-yonghu"></i><br>我的</a></li>
+			</ul>
+		</div>
+</body>
+</html>

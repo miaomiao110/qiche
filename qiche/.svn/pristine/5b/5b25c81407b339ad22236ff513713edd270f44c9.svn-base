@@ -1,0 +1,262 @@
+/*通用*/
+html {
+            color: #333;
+            font:normal 12px '微软雅黑','Microsoft YaHei';
+        }
+        body,ul,ol,p,h1,h2,h3 {
+            margin: 0;
+            padding: 0;
+        }
+        ul,ol {
+    list-style: none;
+        }
+        a {
+    text-decoration: none;
+    color: #333;
+        }
+
+
+@media screen and (min-width:960px) and (max-width:1600px){
+        .body{
+        overflow-x: hidden;
+        position: relative;
+        }
+        /*顶部*/
+        .title{
+        width: 100%;
+        height: 100px;
+        text-align: center;
+        overflow: hidden;
+        }
+        .title>.one{
+        width: 20%;
+        height: 60px;
+        float: left;
+        font-size: 18px;
+        margin-right: 5%;
+        margin-top: 40px;
+        }
+        .title>.two{
+        width: 35%;
+        height: 60px;
+        font-size: 21px;
+        float: left;
+        margin-right: 5%;
+        margin-left: 5%;
+        margin-top: 40px;
+        }
+        .title>.three{
+        width: 25%;
+        height: 60px;
+        float: left;
+        font-size: 18px;
+        margin-left: 5%;
+        margin-top: 40px;
+        }
+        /*中部*/
+        /*<!-- 图片 -->*/
+        .photoone{
+        width:100%;
+        height:500px;
+        }
+        .photoone>div{
+        width:100%;
+        height:100%;
+}
+        .photoone>div>img{
+        width:100%;
+        height:100%;
+}
+/*<!-- 中部图片下面 -->*/
+       .titleline{
+        width:100%;
+        height: 60px; 
+        display: inline-block;
+       
+        }
+        .chenumber{
+        width: 100%;
+        height: 60px;
+        overflow: hidden;
+    }
+        .titleline>.chenumber>h1{
+        margin-left: 15%;
+        width: 20%;
+        height: 50px;
+        color: #f96309;
+        float: left;
+        text-align: right;
+        }
+        .titleline>.chenumber>.font{
+        margin-left: 35%;
+        width: 20%;
+        height: 25px;
+        margin-top: 10px;
+         }
+        
+         /*预约卖车*/
+        .ksyy{
+        width: 80%;
+        height: 200px;
+        margin-left: 10%;
+        margin-right: 10%;
+        }
+        .ksyy>input{
+        width: 100%;
+        height: 200px;
+        background-color: #f96a00;
+        font-size: 55px;
+        color: white;
+        border-radius: 1em;
+        border-style: none;
+        }
+        /*底下按钮*/
+
+        .rqone{
+        width: 80%;
+        height: 200px;
+        margin-left: 10%;
+        margin-right: 10%;
+        
+}
+  .rqone>.mfzx{
+        width: 45%;
+        height: 150px;
+        margin-right:5%;
+        margin-top: 14px;
+        float: left;
+        position: relative;
+
+        border-style: solid;
+        border-color:  #f96a00;
+        border-width: 2px;
+        border-radius: 1em;
+        }                      
+        .rqone>.mfzx>.juzitwo{
+        width: 40%;
+        height: 50px;
+        margin-left:30%; 
+        margin-right:30%;
+        margin-top:50px;
+        margin-bottom:50px;
+        color: #f96a00;
+        font-size: 40px;
+        }
+         
+        .rqone>.xggj{
+        
+        width: 35%;
+        height: 150px;
+        margin-left:45%;
+        margin-top: 14px;
+        position: absolute;
+        
+
+        border-style: solid;
+        border-color:  #f96a00;
+        border-width: 2px;
+        border-radius: 1em;
+        }                               
+        .rqone>.xggj>.juzithree{
+        width: 40%;
+        height: 50px;
+        margin-left:30%; 
+        margin-right:30%;
+        margin-top:50px;
+        margin-bottom:50px;
+        color: #f96a00;
+        font-size: 40px;
+        }
+/*分界线*/
+.fjx{
+        width: 100%;
+        height: 100px;
+        background-color: #fafafa;
+}
+/*底部*/
+.zmlc{
+        width: 100%;
+        height: 100px;
+        }
+.zmlc>.zmlcrq{
+        width: 30%;
+        height: 50px;
+        font-size: 40px;
+        margin-left: 10%;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        }
+        .lc{
+        width: 80%;
+        height: 240px;
+        margin-right: 10%;
+        margin-left: 10%;
+        }
+        .lc>img{
+        width: 100%;
+        height: 240px;
+        }
+        .tishi{
+        width: 80%;
+        height: 150px;
+        margin-right: 10%;
+        margin-left: 10%;
+        }
+        .tishi>img{
+        width: 100%;
+        height: 100px;
+        }
+
+}
+
+/*最底菜单栏*/
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+        .bottom {
+
+            /*flex: 0 0 50px;*/
+
+            position: fixed;
+            height: 100px;
+            background-color: #fff;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+            line-height: 40px;
+            font-size: 18px;
+            color: #fff;
+            font-weight: bold;
+        }
+        .bottom a {
+            display: inline-block;
+            width: 100%;
+            height: 100%;
+            background-color: #fff;
+
+        }
+        .bottom>ul>li {
+            float: left;
+            width: 20%;
+        }
+        .bottom>ul::after {
+            clear: both;
+            display: block;
+            content: "";
+        }
+        .last_car {
+            margin-bottom: 100px;
+        }
+        .icon-fangzi1,
+        .icon-che,
+        .icon-qian,
+        .icon-gouwuche,
+        .icon-yonghu {
+            font-size: 32px !important;
+        }
+        .icon-qian {
+            color: #ec6f2d;
+        }
